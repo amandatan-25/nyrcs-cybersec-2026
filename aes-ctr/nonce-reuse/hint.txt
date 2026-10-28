@@ -1,0 +1,6 @@
+Both files were encrypted with AES-CTR using the SAME key and SAME nonce.
+You know the full plaintext of ciphertext1.txt:
+
+  'Dear Team, the quarterly report is attached below for your review. Please read it carefully and let us know if you have questions. '
+
+Use that to recover the keystream and decrypt ciphertext2.txt.
